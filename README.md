@@ -96,4 +96,3 @@ Para testar a visão do cliente:
 ## 📄 Licença
 
 Este projeto é proprietário e desenvolvido para uso exclusivo.
-Developed by **Antigravity AI** 🤖
