@@ -4,7 +4,7 @@
 
 > **"Onde seu carro sai novo e seu negócio voa."**
 
-Um sistema de gestão moderno para Estética Automotiva, focado em alta performance, Experiência do Cliente (CX) e design sofisticado.
+Um sistema de gestão moderno para Estética Automotiva, focado em alta performance, Experiência do Cliente (CX) e design sofisticado e prático.
 
 ---
 
@@ -95,4 +95,4 @@ Para testar a visão do cliente:
 
 ## 📄 Licença
 
-Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo
+Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo
