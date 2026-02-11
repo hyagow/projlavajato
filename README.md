@@ -95,4 +95,4 @@ Para testar a visão do cliente:
 
 ## 📄 Licença
 
-Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo
+Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo.
