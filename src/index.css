@@ -1,0 +1,51 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    /* "Dark Glass" & Neon Aesthetic */
+    /* Deep background (Slate-950 equivalent but cooler) */
+    --background: 222 47% 11%; 
+    --foreground: 210 40% 98%;
+
+    /* Neon Blue/Cyberpunk */
+    --primary: 199 89% 48%; /* Bright Sky Blue */
+    --primary-foreground: 222 47.4% 11.2%;
+
+    /* Glass Panels */
+    --card: 222 47% 13%; /* Slightly lighter than bg */
+    --card-foreground: 210 40% 98%;
+
+    --secondary: 217 33% 17%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217 33% 17%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --radius: 1rem; /* More rounded for modern feel */
+  }
+}
+
+@theme {
+  --color-background: hsl(var(--background));
+  --color-foreground: hsl(var(--foreground));
+  --color-primary: hsl(var(--primary));
+  --color-primary-foreground: hsl(var(--primary-foreground));
+  --color-card: hsl(var(--card));
+  --color-card-foreground: hsl(var(--card-foreground));
+  --color-secondary: hsl(var(--secondary));
+  
+  /* Additional Neon Accents */
+  --color-accent-pink: #f472b6;
+  --color-accent-cyan: #22d3ee;
+  --color-accent-green: #4ade80;
+}
+
+body {
+  @apply bg-background text-foreground tracking-tight;
+  /* Add subtle gradient mesh background */
+  background-image: 
+    radial-gradient(at 0% 0%, hsla(253,16%,7%,1) 0, transparent 50%), 
+    radial-gradient(at 50% 0%, hsla(225,39%,30%,1) 0, transparent 50%), 
+    radial-gradient(at 100% 0%, hsla(339,49%,30%,1) 0, transparent 50%);
+  background-attachment: fixed;
+}
