@@ -11,8 +11,8 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 ## ✨ Funcionalidades Principais
 
 ### 🎨 Experiência Premium (UI/UX)
-- **Dark Glass Aesthetic**: Interface moderna com transparências e desfoque (Glassmorphism), inspirada nos dashboards mais futuristas.
-- **Animações Fluidas**: Transições suaves entre telas e interações táteis powered by `Framer Motion`.
+- **Dark Glass Aesthetic**: Interface moderna com transparências e desfoque (Glassmorphism), inspirada nos dashboards mais futuristas;
+- **Animações Fluidas**: Transições suaves entre telas e interações táteis powered by `Framer Motion`;
 - **Mobile First**: Portal do Cliente 100% otimizado para celulares.
 
 ### 💳 Financeiro & Pix Profissional
