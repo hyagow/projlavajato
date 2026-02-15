@@ -89,7 +89,7 @@ Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialme
 Para testar a visão do cliente:
 1. Clique em **"Sou Cliente"**.
 2. Digite um número de celular (Ex: `11999999999`).
-3. Acompanhe seus veículos em tempo real.
+3. Acompanhe seus veículos em tempo real em visualização clara e de fácil entendimento.
 
 ---
 
