@@ -53,7 +53,7 @@ O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 Pré-requisitos: Node.js 18+ instalado.
 
-1. **Clone o repositório**
+1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/lava-jato-ta-novo.git
    cd lava-jato-ta-novo
