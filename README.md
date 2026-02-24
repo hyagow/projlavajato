@@ -11,8 +11,8 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 ## ✨ Funcionalidades Principais
 
 ### 🎨 Experiência Premium (UI/UX)
-- **Dark Glass Aesthetic**: Interface moderna com transparências e desfoque (Glassmorphism), inspirada nos dashboards mais futuristas.
-- **Animações Fluidas**: Transições suaves entre telas e interações táteis powered by `Framer Motion`.
+- **Dark Glass Aesthetic**: Interface moderna com transparências e desfoque (Glassmorphism), inspirada nos dashboards mais futuristas;
+- **Animações Fluidas**: Transições suaves entre telas e interações táteis powered by `Framer Motion`;
 - **Mobile First**: Portal do Cliente 100% otimizado para celulares.
 
 ### 💳 Financeiro & Pix Profissional
@@ -53,7 +53,7 @@ O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 Pré-requisitos: Node.js 18+ instalado.
 
-1. **Clone o repositório**
+1. **Clone o repositório:**
    ```bash
    git clone https://github.com/seu-usuario/lava-jato-ta-novo.git
    cd lava-jato-ta-novo
@@ -89,10 +89,10 @@ Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialme
 Para testar a visão do cliente:
 1. Clique em **"Sou Cliente"**.
 2. Digite um número de celular (Ex: `11999999999`).
-3. Acompanhe seus veículos em tempo real.
+3. Acompanhe seus veículos em tempo real em visualização clara e de fácil entendimento.
 
 ---
 
 ## 📄 Licença
 
-Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo
+Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo.
