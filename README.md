@@ -32,7 +32,7 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 
 ---
 
-## 🚀 Tecnologias Utilizadas
+## 🚀 Tecnologias Utilizadas:
 
 O projeto foi construído com o que há de mais moderno no ecossistema React:
 
