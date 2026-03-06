@@ -8,7 +8,7 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 
 ---
 
-## ✨ Funcionalidades Principais
+## ✨ Funcionalidades Principais:
 
 ### 🎨 Experiência Premium (UI/UX)
 - **Dark Glass Aesthetic**: Interface moderna com transparências e desfoque (Glassmorphism), inspirada nos dashboards mais futuristas;
