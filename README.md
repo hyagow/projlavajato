@@ -15,12 +15,12 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 - **Animações Fluidas**: Transições suaves entre telas e interações táteis powered by `Framer Motion`;
 - **Mobile First**: Portal do Cliente 100% otimizado para celulares.
 
-### 💳 Financeiro & Pix Profissional
+### 💳 Financeiro & Pix Profissional:
 - **Pix com BR Code**: Geração automática de QRCodes compatíveis com qualquer app bancário.
 - **Feedback Visual**: Confirmação de pagamento com animações de sucesso (sem alertas intrusivos).
 - **Controle de Caixa**: Dashboard financeiro com gráficos semanais e tickets médios.
 
-### 🛡️ Segurança & Acesso
+### 🛡️ Segurança & Acesso:
 - **Modo Furtivo (Stealth Mode)**: O painel administrativo fica oculto por padrão. A equipe acessa através de um gatilho secreto.
 - **MFA (Autenticação de Dois Fatores)**: Login seguro via **Google Authenticator**. Nada de senhas fracas.
 - **Login Seguro**: Validação de telefone para evitar duplicidade de clientes.
