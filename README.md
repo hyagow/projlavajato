@@ -25,7 +25,7 @@ Um sistema de gestão moderno para Estética Automotiva, focado em alta performa
 - **MFA (Autenticação de Dois Fatores)**: Login seguro via **Google Authenticator**. Nada de senhas fracas.
 - **Login Seguro**: Validação de telefone para evitar duplicidade de clientes.
 
-### 📊 Operacional
+### 📊 Operacional:
 - **Kanban Interativo**: Fluxo visual (Aguardando → Lavando → Pronto).
 - **Histórico Vitalício**: Registro completo de todos os serviços, com possibilidade de edição e auditoria.
 - **Configuração Dinâmica**: Tabelas de preços ajustáveis em tempo real.
