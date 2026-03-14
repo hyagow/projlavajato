@@ -49,7 +49,7 @@ O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 ---
 
-## 📦 Como Rodar
+## 📦 Como Rodar:
 
 Pré-requisitos: Node.js 18+ instalado.
 
@@ -59,22 +59,22 @@ Pré-requisitos: Node.js 18+ instalado.
    cd lava-jato-ta-novo
    ```
 
-2. **Instale as dependências**
+2. **Instale as dependências:**
    ```bash
    npm install
    ```
 
-3. **Rode o servidor de desenvolvimento**
+3. **Rode o servidor de desenvolvimento:**
    ```bash
    npm run dev
    ```
 
-4. **Acesse**
+4. **Acesse:**
    👉 Abra [http://localhost:5173](http://localhost:5173) no seu navegador.
 
 ---
 
-## 🔐 Acesso Administrativo (Segredo)
+## 🔐 Acesso Administrativo (Segredo):
 
 Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente.
 
