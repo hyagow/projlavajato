@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
-src\utils\pix.js
+.src\utils\pix.js
 
 node_modules
 dist
