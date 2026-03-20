@@ -84,7 +84,7 @@ Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialme
 
 ---
 
-## 📱 Portal do Cliente
+## 📱 Portal do Cliente:
 
 Para testar a visão do cliente:
 1. Clique em **"Sou Cliente"**.
@@ -93,6 +93,6 @@ Para testar a visão do cliente:
 
 ---
 
-## 📄 Licença
+## 📄 Licença:
 
 Este projeto é proprietário e desenvolvido por Hyago Santos para uso exclusivo para modelo.
