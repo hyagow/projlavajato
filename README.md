@@ -78,8 +78,8 @@ Pré-requisitos: Node.js 18+ instalado.
 
 Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente.
 
-1. Na tela inicial, clique **3 vezes rapidamente** no título **"Lava Jato Tá Novo"**.
-2. O botão **"Equipe / Staff"** aparecerá.
+1. Na tela inicial, clique **3 vezes rapidamente** no título **"Lava Jato Tá Novo"**;
+2. O botão **"Equipe / Staff"** aparecerá;
 3. No primeiro acesso, escaneie o QR Code com seu app autenticador.
 
 ---
