@@ -76,7 +76,7 @@ Pré-requisitos: Node.js 18+ instalado.
 
 ## 🔐 Acesso Administrativo (Segredo):
 
-Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente.
+Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente:
 
 1. Na tela inicial, clique **3 vezes rapidamente** no título **"Lava Jato Tá Novo"**;
 2. O botão **"Equipe / Staff"** aparecerá;
@@ -87,8 +87,8 @@ Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialme
 ## 📱 Portal do Cliente:
 
 Para testar a visão do cliente:
-1. Clique em **"Sou Cliente"**.
-2. Digite um número de celular (Ex: `11999999999`).
+1. Clique em **"Sou Cliente"**;
+2. Digite um número de celular (Ex: `11999999999`);
 3. Acompanhe seus veículos em tempo real em visualização clara e de fácil entendimento.
 
 ---
