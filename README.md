@@ -51,7 +51,7 @@ O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 ## 📦 Como Rodar:
 
-Pré-requisitos: Node.js 18+ instalado. 
+- Pré-requisitos: Node.js 18+ instalado. 
 
 1. **Clone o repositório:**
    ```bash
