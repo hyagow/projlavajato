@@ -76,7 +76,7 @@ O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 ## 🔐 Acesso Administrativo (Segredo):
 
-Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente:
+- Como o sistema possui **Stealth Mode**, o botão de login não aparece inicialmente:
 
 1. Na tela inicial, clique **3 vezes rapidamente** no título **"Lava Jato Tá Novo"**;
 2. O botão **"Equipe / Staff"** aparecerá;
