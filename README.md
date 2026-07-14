@@ -34,7 +34,7 @@
 
 ## 🚀 Tecnologias Utilizadas:
 
-O projeto foi construído com o que há de mais moderno no ecossistema React:
+- O projeto foi construído com o que há de mais moderno no ecossistema React:
 
 | Tech | Função |
 |------|--------|
